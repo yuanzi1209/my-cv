@@ -1,0 +1,11 @@
+{
+  "name": "my-cv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yuanzi1209/my-cv.git",
+  "author": "yuanzi <yuanzi1209@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  }
+}

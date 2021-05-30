@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>齐原缘-前端开发工程师</title>
+    <style>* {
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #eee;
+            margin: 20px 0;
+        }
+
+        p {
+            margin: .3em 0;
+        }
+
+        h1 {
+            font-size: 25px;
+            margin-top: 0;
+        }
+
+        article {
+            width: 21cm;
+            min-height: 29.7cm;
+            background: white;
+            margin: 0 auto;
+            overflow: auto;
+            padding: 1em;
+        }
+
+        .myIntro {
+            position: relative;
+        }
+
+        .myIntro img {
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+</style>
+</head>
+
+<body>
+    <article>
+        <!-- 个人简介 -->
+        <section class="myIntro">
+            <h1>齐原缘</h1>
+            <img src="/cv.HASH_REF_988a9f2dedd1b2cca283390a0398ae46.jpg" alt="" width="100" height="100">
+            <p>
+                女 | 23岁 | 前端开发工程师 | 南京
+            </p>
+            <p>
+                手机：17755677477 | 微信：QiYuanYuan1209 | 邮箱：yuanzi1209@gmail.com
+            </p>
+        </section>
+        <!-- 教育背景 -->
+        <section>
+            <h2>教育背景</h2>
+            <p>
+                <span>2016.09-2020.06</span>
+                <span>蚌埠学院计算机工程学院</span>
+                <span></span>
+            </p>
+        </section>
+        <!-- 技术能力 -->
+    </article>
+</body>
+
+</html><script src="/index.HASH_REF_42412dc50fd44bf0205308ab01a1c8c0.js"></script>
